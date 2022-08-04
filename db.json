@@ -1,31 +1,27 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "Post 1"
+      "parentCode": "195R"
+      "title": "Ankle brace with straps",
+      "price": 49.95
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "parentCode": "199R"
+      "title": "Ankle brace",
+      "price": 49.95
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "parentCode": "4200R"
+      "title": "Bio-Logix Knee Brace",
+      "price": 119.99
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "parentCode": "429X"
+      "title": "Knee Brace",
+      "price": 99.95
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
